@@ -9,6 +9,8 @@ public class Main {
         System.out.print("Ingrese su nombre: ");
         String nombre = scanner.nextLine();
         System.out.println(String.format("Su nombre es %s", nombre));
-         System.out.println("Prueba fetch remoto");
+        System.out.println("Prueba fetch remoto");
+        System.out.println("Prueba fetch remoto");
+        System.out.println("Prueba fetch remoto");
     }
 }
